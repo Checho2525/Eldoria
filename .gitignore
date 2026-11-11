@@ -1,11 +1,21 @@
 # Archivos compilados de Java
 *.class
 
-# Configuración local de VS Code
-.vscode/
+# Carpetas de compilación
+bin/
+out/
+build/
+target/
+
+# Archivos empaquetados
+*.jar
 
 # Archivos temporales
+*.tmp
 *.log
+
+# Configuración de Visual Studio Code
+.vscode/
 
 # Archivos del sistema
 .DS_Store
